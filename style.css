@@ -1,0 +1,47 @@
+html {
+    font-family: 'Alata', sans-serif;
+    font-size: 15px;
+}
+
+.first {
+    height: 100vh;
+    background-image: url(./images/desktop/image-hero.jpg);
+    background-repeat: no-repeat;
+}
+
+.logo {
+    position: absolute;
+    left: 12%;
+    top: 10%;
+}
+
+nav {
+    float: right;
+    margin-top: 4%;
+    margin-right: 5%;
+
+}
+
+nav a {
+    float: left;
+}
+
+nav a li {
+    list-style-type: none;
+    color: white;
+    padding: 0 20px;
+    text-decoration: none;
+}
+
+.box1 {
+    text-transform: uppercase;
+    font-family: 'Josefin Sans', sans-serif;
+    border-style: solid;
+    font-weight: 300;
+    color: white;
+    font-size: 65px;
+    position: absolute;
+    top: 20%;
+    left: 5%;
+    padding: 5%;
+}
